@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+    background-color: lavender;
+}
+.img {
+    padding-right: px;
+    padding-left: 400px;
+}
+.words {
+    text-align: center;
+}
