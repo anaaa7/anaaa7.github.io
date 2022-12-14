@@ -8,3 +8,12 @@ body {
 body {
     background-color: lightyellow;
 }
+
+img{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.words {
+    text-align: center;
+}
